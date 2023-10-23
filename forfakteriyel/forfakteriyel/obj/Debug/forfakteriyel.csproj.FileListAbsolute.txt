@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\forfakteriyel\forfakteriyel\bin\Debug\forfakteriyel.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\forfakteriyel\forfakteriyel\bin\Debug\forfakteriyel.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\forfakteriyel\forfakteriyel\bin\Debug\forfakteriyel.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\forfakteriyel\forfakteriyel\obj\Debug\forfakteriyel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\forfakteriyel\forfakteriyel\obj\Debug\forfakteriyel.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\forfakteriyel\forfakteriyel\obj\Debug\forfakteriyel.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\forfakteriyel\forfakteriyel\obj\Debug\forfakteriyel.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\forfakteriyel\forfakteriyel\obj\Debug\forfakteriyel.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\forfakteriyel\forfakteriyel\obj\Debug\forfakteriyel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\forfakteriyel\forfakteriyel\obj\Debug\forfakteriyel.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\forfakteriyel\forfakteriyel\obj\Debug\forfakteriyel.pdb
